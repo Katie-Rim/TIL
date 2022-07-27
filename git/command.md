@@ -1,3 +1,16 @@
+$ pwd  # 현재 폴더 확인
+/c/Users/...
+
+$ mkdir <생성할 폴더명> # 빈 폴더 생성
+
+$ cd <생성할 폴더명> # 폴더 이동
+
+$ git init # Git 로컬저장소 생성
+Initialized empty Gitrepository in
+C:/Users/...
+
+
+
 ### 1. 설정과 초기화
 
 **전역 사용자명/이메일 구성**
