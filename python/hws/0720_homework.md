@@ -1,5 +1,4 @@
 0720  Daily Homework 
-8기 서울 1반 임성아
 
 ## Python 03. 제어문과 함수
 
