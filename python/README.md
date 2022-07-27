@@ -1,4 +1,4 @@
 Daily python:
-- Offline/online lectures
-- Daily homework/workshop
-- Daily online practice
+- **lectures**: online/offline lecture notes in my own words
+- **hws**: daily homework/workshop
+- **practice**: daily online practice
