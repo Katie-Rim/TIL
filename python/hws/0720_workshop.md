@@ -1,5 +1,4 @@
 0720 Daily Workshop
-8기 서울 1반 임성아
 
 ## Python 01. 기초문법과 변수 데이터 타입
 
