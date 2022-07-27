@@ -1,5 +1,6 @@
 ## TIL/python 
 
-- **lecture**: online/offline lecture notes in my own words
 - **hws**: daily homework/workshop
+- **lecture**: online/offline lecture notes in my own words
+- **lecture practice**: examples in lecture notes
 - **practice**: daily online practice
