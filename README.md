@@ -1,3 +1,4 @@
 Today I Learned
-- python
+- git
 - markdown
+- python
