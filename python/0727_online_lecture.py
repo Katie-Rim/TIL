@@ -34,7 +34,7 @@ john.name = 'John Kim' # 인스턴스 변수 접근 및 할당
 print(john.name) # John Kim
 
 
-# 클래스 변수
+# 클래스 변수와 인스턴스 변수
 class Circle():
     pi = 3.14 # 클래스 변수 정의
 
@@ -47,7 +47,14 @@ print(Circle.pi) # 3.14
 print(c1.pi) # 3.14 
 print(c2.pi) # 3.14
 
-Circle.pi = 5
+Circle.pi = 5 # 클래스 변수 변경
 print(Circle.pi) # 5
 print(c1.pi) # 5
 print(c2.pi) # 5
+
+Circle.pi = 3.14 # 클래스 변수 변경
+c2.pi = 5 # 인스턴스 변수 변경
+print(Circle.pi) # 3.14 (클래스 변수)
+print(c1.pi) # 3.14
+print(c2.pi) # 5 (새로운 인스턴스 변수가 생성됨)
+
